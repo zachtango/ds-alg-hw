@@ -1,2 +1,4 @@
-package com.company;public class BinomialQueue {
+package com.company;
+
+public class BinomialQueue {
 }
